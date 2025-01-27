@@ -54,3 +54,7 @@ __Results:__
 __Financial analysis dashboard URL:__ [tableau.com/galina.makarchuk/financial_analysis](https://public.tableau.com/views/FinancialAnalysis_17353392284410/FinancialAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) \
 __Regional trends dashboard URL:__ [tableau.com/galina.makarchuk/regional_trends](https://public.tableau.com/views/FinancialAnalysis_17353392284410/RegionalTrends?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) \
 __Presentation URL:__ [tableau.com/galina.makarchuk/presentation](https://public.tableau.com/views/FinancialAnalysis_17353392284410/Presentation?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<img width="1693" alt="Screenshot 2025-01-27 at 12 01 19" src="https://github.com/user-attachments/assets/2ddcd29a-360b-4414-8f3c-083ceb8cff29" />
+
+<img width="1688" alt="Screenshot 2025-01-27 at 11 55 40" src="https://github.com/user-attachments/assets/05920c46-94ec-4469-a43e-dbe227eb41ad" />
