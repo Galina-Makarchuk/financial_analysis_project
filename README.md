@@ -31,8 +31,14 @@ __Tools used:__
 * PowerTransformer with Yeo-Johnson transformation: to scale numerical variables for ML
 * Linear Regression and Random Forest Regressor algorithms: for profit prediction
 
-__Data description:__ \
-A database in SQLite format, consisting of 6 tables. \
+__Data description:__
+* A database in SQLite format, consisting of 6 tables.
+* The company has restricted the ability to load the whole database to CSV. \
+  It is not allowed to select all rows from datasets or merge/ group/ manipulate in Python. \
+  Only the connection to the database itself can be used.
+* Research questions and data manipulation should be done by using SQL queries.
+* Only visualization and statistics should be in Python.
+
 _Note:_ The database is not added to this repository due to its size & upload limitations.
 
 __Results:__
