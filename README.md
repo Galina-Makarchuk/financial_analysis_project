@@ -40,7 +40,7 @@ __Data description:__
 * Only visualization and statistics should be in Python.
 
 _Note:_ The database atliq_db.sqlite3 is not added to this repository due to its size & upload limitations. \
-It can be downloaded from Google Drive via [this link](https://drive.google.com/file/d/1sGwyFlyBX1zBHrtf3c69nrTejJGohMHU/view?usp=sharing).
+It can be downloaded from [Google Drive](https://drive.google.com/file/d/1sGwyFlyBX1zBHrtf3c69nrTejJGohMHU/view?usp=sharing).
 
 __Results:__
 * Determined key financial indicators to assess the company's financial health.
